@@ -1,0 +1,8 @@
+﻿Levenshtein
+numpy
+pandas
+scikit-learn
+altair
+pandas
+sentence_transformers
+streamlit
